@@ -16,3 +16,27 @@ Questions:
 3. Can you explain the concept of overloading and override?
 
 [Solution](https://youtu.be/i-t7COgw7_o)
+
+- Part 3
+Questions:
+1. How to prevent a method from override
+2. What is Given, When & Then ?
+3. What is the output ?
+
+[Solution](https://youtu.be/BLhHxj9YqLw)
+
+- Part 4
+Questions:
+1. Name few exception that you faced in automation
+2. When we cannot use @FIndBY
+3. Write a program to find the largest number in the given array
+
+[Solution](https://youtu.be/aKEK5ly5k0c)
+
+- Part 5
+Questions:
+1. What is the difference between close and quit?
+2. When we will get failure and skip in TestNG?
+3. What will be the output?
+
+[Solution](https://youtu.be/E8CU1Wsemwk)
