@@ -40,3 +40,11 @@ Questions:
 3. What will be the output?
 
 [Solution](https://youtu.be/E8CU1Wsemwk)
+
+- Part 6
+Questions:
+1. Where do you use Enum in your framework?
+2. How to print all the dropdown values?
+3. How to print the page title without using getTitle function?
+
+[Solution](https://youtu.be/m2K9yY_4O_0)
