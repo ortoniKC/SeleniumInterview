@@ -48,3 +48,19 @@ Questions:
 3. How to print the page title without using getTitle function?
 
 [Solution](https://youtu.be/m2K9yY_4O_0)
+
+- Part 7
+Questions:
+1.There is an alert with 4 buttons OK, Cancel, Yes, No. How do you handle it
+2. You are doing a click action using Selenium, After the click no response in the UI. What you’ll do?
+3. As soon as you load the QA it’s asking for username and password in the Alert. How to handle this?
+
+[Solution](https://youtu.be/WkjGgWhBWTw)
+
+- Part 8
+Questions:
+1. Can we overload and override a static method?
+2. Difference between ArrayList and LinkedList?
+3. What is the difference between fetch and pull?
+
+[Solution]()
